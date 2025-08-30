@@ -1,7 +1,5 @@
 # construction-site
 construction-site
-[node.html](https://github.com/user-attachments/files/22057307/node.html)
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
